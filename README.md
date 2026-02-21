@@ -96,7 +96,7 @@ mnist-digit-classification/
 
 Clone the repository:
 
-git clone https://github.com/c-ehsan/mnist-digit-classification.git
+git clone https://github.com/c-ehsan/MNIST_Neural_Network_Classifier
 cd mnist-digit-classification
 
 Install dependencies:
